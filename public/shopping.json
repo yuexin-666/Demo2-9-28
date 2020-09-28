@@ -1,0 +1,5 @@
+{
+    "info":[{"img":"./img/t1.jpg","title":"可爱套裙","color":"蓝色","size":"6","price":"5"}
+        ,{"img":"./img/t2.jpg","title":"裤子","color":"黑色","size":"5","price":"10"}
+        ,{"img":"./img/t3.jpg","title":"西服","color":"蓝色","size":"5","price":"20"}]
+}
